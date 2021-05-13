@@ -1,0 +1,21 @@
+/* Custom CSS */
+
+.tableBorder{
+  border: 1px solid #d6d2d2;
+}
+.tableHeader{
+  background-color: rgb(248 247 247);
+}
+.oddRow {
+  background-color: white;
+}
+.evenRow {
+  background-color: rgb(255, 251, 251);
+}
+.addfilterBtn{
+  border: none;
+  background: white;
+}
+.addfilterBtn:focus{
+  outline: none;
+}
